@@ -1,6 +1,6 @@
 # 🎬 ViewMaster Pro: YouTube Audience Simulator
 
-<a href="https://bit.ly/42PHIIn">More info about YouTube View Bot</a>
+# <a href="https://bit.ly/42PHIIn">More info about YouTube View Bot</a>
 
 *The Ultimate Solution for Channel Growth for Creators*
 
