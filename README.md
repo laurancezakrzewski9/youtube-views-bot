@@ -1,4 +1,4 @@
-# 🎬 ViewMaster Pro: YouTube Audience Simulator
+# 🎬 ViewMaster Pro: YouTube Bot
 
 # <a href="https://bit.ly/42PHIIn">More info about YouTube View Bot</a>
 
